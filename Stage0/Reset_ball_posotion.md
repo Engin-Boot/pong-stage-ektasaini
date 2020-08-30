@@ -3,6 +3,7 @@
 ## Feature
 
 This module will reset the position of the ball at the center of the board.
+
 ## Acceptance Criteria
 
 ### Scenario: reset ball position
