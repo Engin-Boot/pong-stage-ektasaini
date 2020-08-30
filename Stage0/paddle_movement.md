@@ -16,7 +16,7 @@ movement of the paddle.
 
   Then this module will help in moving the paddle
   up and down respectively.
- 
+
 ### Scenario: movement of paddle on a touchscreen
 
   Given the user has entered in the game.
