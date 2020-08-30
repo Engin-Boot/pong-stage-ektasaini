@@ -21,7 +21,7 @@ to any lower difficulty level game.
 
 Given the user game wins is recorded from the
 time he signed in the game and the difficulty
-level unlocked uptill now
+level unlocked up till now
 
 When the user will reach the required number
 of game wins for the next level
