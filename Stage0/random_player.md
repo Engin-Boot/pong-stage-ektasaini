@@ -13,6 +13,6 @@ person for the user as his opponent.
   
   When the user presses the "choose random player" button
 
-  Then this module will run an algorithm to choose any peron from all
+  Then this module will run an algorithm to choose any person from all
   the people who have clicked the same button of choosing a
   random opponent at that time.
