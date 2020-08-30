@@ -2,7 +2,9 @@
 
 ## Startup Sequence
 
--describe-how-your-modules-interact-to-start
+#### choose player 
+##### random person 
+##### play with friend 
 
 ## Movement Initiation
 
