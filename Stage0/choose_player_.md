@@ -8,11 +8,12 @@ This module will be responsible for helping the user choose his player for the g
 
 ### Scenario: play with a friend
 
-  Given the user wants to play the game with one of his friend and sends him the game code
+  Given the user wants to play the game with one of his friend 
+  and sends him the game code
 
   When the friend will join the game by entering the code in his device
 
-  Then this module will set the friend as the second player. 
+  Then this module will set the friend as the second player.
 
 ### Scenario: play with a random person
 
