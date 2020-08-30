@@ -12,5 +12,5 @@ This module will be responsible for starting the game.
   
   When the user presses the start game button
 
-  Then this module will set the inital velocity, direction of
+  Then this module will set the initial velocity, direction of
   the ball along with the initial score of both the players.
