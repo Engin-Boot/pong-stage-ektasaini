@@ -4,7 +4,7 @@
 
 This module will be responsible for checking collision
 between the four walls, ball and the paddle and thus
-returning the type of collison.
+returning the type of collision.
 
 ## Acceptance Criteria
 
