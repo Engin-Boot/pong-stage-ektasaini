@@ -1,4 +1,4 @@
-# upgrade by buying new board, paddle and ball.
+# upgrade by buying new board, paddle and ball
 
 ## Feature
 
