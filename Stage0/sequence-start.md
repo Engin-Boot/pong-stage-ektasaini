@@ -7,18 +7,29 @@ play with friend )
 
 difficulty level
 
-buy and pay 
+buy and pay
 
 board settings
 
-## Game 
+## Game
 
-start game 
+start game
 
-Loop(
-paddle movement , collision ,
-ball direction change/ ball reset ,
-score calculate , winner check)
+Loop
+
+(
+
+paddle movement
+
+collision
+
+ball direction change / ball reset
+
+score calculate
+
+winner check
+
+)
 
 exit
 
