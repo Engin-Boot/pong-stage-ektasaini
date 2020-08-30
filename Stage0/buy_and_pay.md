@@ -1,0 +1,19 @@
+# upgrade by buying new board, paddle and ball.
+
+## Feature
+
+This module will help user upgarding his game
+by buying new stuff.
+
+## Acceptance Criteria
+
+### Scenario: buy and pay
+
+  Given the user wants to buy new baord,
+  paddle or ball
+
+  When the user clicks on "buy"
+
+  Then this module will give all the current
+  available list of items along with their price
+  and the payment modes available.
