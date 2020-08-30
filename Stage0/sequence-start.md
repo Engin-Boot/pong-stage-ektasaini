@@ -2,14 +2,23 @@
 
 ## Startup Sequence
 
-#### choose player 
-##### random person 
-##### play with friend 
+choose player (random person,
+play with friend )
 
-## Movement Initiation
+difficulty level
 
--describe-how-modules-interact-to-make-the-ball-move
+buy and pay 
 
-## One score
+board settings
 
--describe-how-the-modules-interact-to-record-scores
+## Game 
+
+start game 
+
+Loop(
+paddle movement , collision ,
+ball direction change/ ball reset ,
+score calculate , winner check)
+
+exit
+
