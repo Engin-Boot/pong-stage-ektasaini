@@ -2,14 +2,14 @@
 
 ## Feature
 
-This module will help user upgarding his game
+This module will help the user in upgrading
 by buying new stuff.
 
 ## Acceptance Criteria
 
 ### Scenario: buy and pay
 
-  Given the user wants to buy new baord,
+  Given the user wants to buy a new board,
   paddle or ball
 
   When the user clicks on "buy"
