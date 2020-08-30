@@ -1,4 +1,4 @@
-# upadte the score of the players
+# update the score of the players
 
 ## Feature
 
@@ -12,6 +12,6 @@ This module will be responsible for updating the score of the players.
   ball coming towards the player hits the wall
   instead of the paddle
 
-  When the recieved collision type is bad
+  When the received collision type is bad
 
   Then this module will increment the score of the opponent by 1.
